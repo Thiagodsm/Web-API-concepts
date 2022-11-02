@@ -4,7 +4,7 @@ using BuberBreakfast.Contracts.Breakfast;
 namespace BuberBreakfast.Controllers
 {
     [ApiController]
-    [Route("breakfasts")]
+    [Route("breakfasts")] // or [Route("[controler]")]
     public class BreakfastsController : ControllerBase
     {
         [HttpPost()]
