@@ -11,7 +11,15 @@
         public List<string> Savory { get; }
         public List<string> Sweet { get; }
 
-        public Breakfast(Guid Id, string Name, string Description, DateTime StartDateTime, DateTime EndDateTime, DateTime LastModifiedDateTime, List<string> Savory, List<string> Sweet)
+        public Breakfast(
+            Guid Id, 
+            string Name, 
+            string Description, 
+            DateTime StartDateTime, 
+            DateTime EndDateTime, 
+            DateTime LastModifiedDateTime, 
+            List<string> Savory,
+            List<string> Sweet)
         {
             // enforce invariants
             Id = Id;
