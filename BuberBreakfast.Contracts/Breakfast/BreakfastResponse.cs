@@ -18,3 +18,4 @@ namespace BuberBreakfast.Contracts.Breakfast
         List<string> Sweet
     );
 }
+

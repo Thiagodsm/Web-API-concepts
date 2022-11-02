@@ -9,6 +9,8 @@ C:\Users\thiag\Desktop\c#\BuberBreakfast\BuberBreakfast\bin\Debug\net6.0\Microso
 C:\Users\thiag\Desktop\c#\BuberBreakfast\BuberBreakfast\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\thiag\Desktop\c#\BuberBreakfast\BuberBreakfast\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\thiag\Desktop\c#\BuberBreakfast\BuberBreakfast\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\thiag\Desktop\c#\BuberBreakfast\BuberBreakfast\bin\Debug\net6.0\BuberBreakfast.Contracts.dll
+C:\Users\thiag\Desktop\c#\BuberBreakfast\BuberBreakfast\bin\Debug\net6.0\BuberBreakfast.Contracts.pdb
 C:\Users\thiag\Desktop\c#\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\BuberBreakfast.csproj.AssemblyReference.cache
 C:\Users\thiag\Desktop\c#\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\BuberBreakfast.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\thiag\Desktop\c#\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\BuberBreakfast.AssemblyInfoInputs.cache
