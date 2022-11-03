@@ -12,24 +12,24 @@
         public List<string> Sweet { get; }
 
         public Breakfast(
-            Guid Id, 
-            string Name, 
-            string Description, 
-            DateTime StartDateTime, 
-            DateTime EndDateTime, 
-            DateTime LastModifiedDateTime, 
-            List<string> Savory,
-            List<string> Sweet)
+            Guid id, 
+            string name, 
+            string description, 
+            DateTime startDateTime, 
+            DateTime endDateTime, 
+            DateTime lastModifiedDateTime, 
+            List<string> savory,
+            List<string> sweet)
         {
             // enforce invariants
-            Id = Id;
-            Name = Name;
-            Description = Description;
-            StartDateTime = StartDateTime;
-            EndDateTime = EndDateTime;
-            LastModifiedDateTime = LastModifiedDateTime;
-            Savory = Savory;
-            Sweet = Sweet;
+            Id = id;
+            Name = name;
+            Description = description;
+            StartDateTime = startDateTime;
+            EndDateTime = endDateTime;
+            LastModifiedDateTime = lastModifiedDateTime;
+            Savory = savory;
+            Sweet = sweet;
         }
     }
 }
