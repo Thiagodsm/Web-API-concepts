@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "VNLV7CJx0JkoVVxooJPh8Zjbdh4qZnsKtqmjOsJMU+wgNkzMM4ngsuEw/PuuWGeCJ9qdTjMYlRGfyg+CMmlHMw==",
+  "dgSpecHash": "TCML3dN9VwxT+Q3iq+cIgOrZ/5eh0NvFBrZA1K5NC4nO/DRfGKBnSFB432J/LkhDU5Ih5vYW0Cg3SNorTimKvg==",
   "success": true,
   "projectFilePath": "C:\\Users\\thiag\\Desktop\\c#\\BuberBreakfast\\BuberBreakfast\\BuberBreakfast.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\thiag\\.nuget\\packages\\erroror\\1.0.1\\erroror.1.0.1.nupkg.sha512",
     "C:\\Users\\thiag\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\thiag\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\thiag\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",

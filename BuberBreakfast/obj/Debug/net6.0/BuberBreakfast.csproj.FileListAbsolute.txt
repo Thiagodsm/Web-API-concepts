@@ -27,3 +27,4 @@ C:\Users\thiag\Desktop\c#\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\refint\
 C:\Users\thiag\Desktop\c#\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\BuberBreakfast.pdb
 C:\Users\thiag\Desktop\c#\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\BuberBreakfast.genruntimeconfig.cache
 C:\Users\thiag\Desktop\c#\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\ref\BuberBreakfast.dll
+C:\Users\thiag\Desktop\c#\BuberBreakfast\BuberBreakfast\bin\Debug\net6.0\ErrorOr.dll

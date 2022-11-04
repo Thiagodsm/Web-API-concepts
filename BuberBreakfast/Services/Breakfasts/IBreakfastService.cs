@@ -6,6 +6,7 @@ namespace BuberBreakfast.Services.Breakfasts
     {
         void CreateBreakfast(Breakfast breakfast);
         Breakfast GetBreakfast(Guid id);
-
+        public void UpsertBreakfast(Breakfast breakfast);
+        void DeleteBreakfast(Guid id);
     }
 }

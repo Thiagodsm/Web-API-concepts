@@ -22,10 +22,18 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.UseHttpsRedirection();
 
-app.UseAuthorization();
+// Add a Global Error Handling
+//if (!app.Environment.IsDevelopment()) 
+//app.UseDeveloperExceptionPage();
+{
+    app.UseExceptionHandler("/error");
 
-app.MapControllers();
+    app.UseHttpsRedirection();
 
-app.Run();
+    app.UseAuthorization();
+
+    app.MapControllers();
+
+    app.Run();
+}
